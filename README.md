@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @KasalaJyothiesh
+# 👋 Hi, I’m KasalaJyothiesh
 
 ## 👀 I’m interested in
 - Full Stack Web Development 🌐
