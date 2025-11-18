@@ -1,30 +1,56 @@
-# 👋 Hi, I’m KasalaJyothiesh
+<h1 align="center">Kasala Jyothiesh</h1>
+<h3 align="center">Full Stack Web Developer | Cloud & AI Enthusiast | AR/VR Explorer</h3>
 
-## 👀 I’m interested in
-- Full Stack Web Development 🌐
-- Artificial Intelligence & Machine Learning 🤖
-- Cloud Computing ☁️
-- Open Source Contribution 🛠️
-- AR/VR & Virtual Try-on Apps 🕶️
+---
 
-## 🌱 I’m currently learning
-- JavaScript, CSS, and Frontend Frameworks 🖥️
-- Firebase & Backend Technologies 🗃️
-- Japanese Language 🇯🇵
-- Video Editing 🎬
+### Interests
+- Full Stack Web Development 🌐  
+- Artificial Intelligence & Machine Learning 🤖  
+- Cloud & DevOps ☁️  
+- AR/VR & Virtual Try-on Technology 🕶️  
+- Open Source Contribution 🛠️  
 
-## 💞️ I’m looking to collaborate on
-- Web Development Projects (Frontend & Backend)
-- Open Source Projects
-- Creative Tech (AR/VR, AI integration)
+---
 
-## 📫 How to reach me
-- Email: jyothieshkasala@gmail.com
-- LinkedIn: [Kasala Jyothiesh](https://www.linkedin.com/in/jyothiesh-kasala)
-- GitHub: [KasalaJyothiesh](https://github.com/KasalaJyothiesh)
+### Currently Learning
+- JavaScript, CSS & Frontend Frameworks ⚛️  
+- Firebase & Backend Development 🗃️  
+- System Design & Software Engineering Principles 🧩  
 
-## 😄 Pronouns
-He/Him
+---
 
-## ⚡ Fun fact
-I’m a B.Tech CSE student who’s passionate about blending creativity with tech. I also love learning languages and building cool projects hands-on!
+### Looking to Collaborate On
+- Full-stack web development projects  
+- Open source contributions  
+- Innovative tech projects integrating AI / AR / Web  
+
+---
+
+### 📫 Contact
+<p align="left">
+  <a href="mailto:jyothiesh4@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/jyothiesh-kasala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/KasalaJyothiesh"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cpp,java,firebase,mysql,mongodb,git,github,linux,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasalaJyothiesh&theme=tokyonight" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasalaJyothiesh&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+<h3 align="center">⭐ Thanks for visiting — Every star & follow motivates me!</h3>
