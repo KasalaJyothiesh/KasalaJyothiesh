@@ -4,18 +4,18 @@
 ---
 
 ### Interests
-- Full Stack Web Development 🌐  
-- Artificial Intelligence & Machine Learning 🤖  
-- Cloud & DevOps ☁️  
-- AR/VR & Virtual Try-on Technology 🕶️  
-- Open Source Contribution 🛠️  
+- Full Stack Web Development 
+- Artificial Intelligence & Machine Learning  
+- Cloud & DevOps  
+- AR/VR & Virtual Try-on Technology   
+- Open Source Contribution 
 
 ---
 
 ### Currently Learning
-- JavaScript, CSS & Frontend Frameworks ⚛️  
-- Firebase & Backend Development 🗃️  
-- System Design & Software Engineering Principles 🧩  
+- JavaScript, CSS & Frontend Frameworks 
+- Firebase & Backend Development 
+- System Design & Software Engineering Principles 
 
 ---
 
@@ -46,11 +46,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KasalaJyothiesh&theme=tokyonight" height="165"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasalaJyothiesh&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 <h3 align="center">⭐ Thanks for visiting — Every star & follow motivates me!</h3>
